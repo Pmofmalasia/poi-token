@@ -1,3 +1,5 @@
 For use in MapTool.
 
-Assets via game-icons.net, used under CC BY 3.0 license
+game-icons.net assets are used under CC BY 3.0 license.
+
+REXARD assets are used under the following license: https://support.humblebundle.com/hc/en-us/articles/360046217533

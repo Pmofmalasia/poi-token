@@ -1,0 +1,14 @@
+{
+  "name": "Points of Interest",
+  "version": "1.0.0",
+  "website": "",
+  "gitUrl": "",
+  "authors": ["PMofMalasia","Bobfile"],
+  "license": "",
+  "namespace": "com.pm.poi",
+  "description": "Library for PoI tokens, based on the original token created by Bobfile, converted to an addon by PMofMalasia.",
+  "shortDescription": "",
+  "allowsUriAccess": true,
+  "licenseFile": "",
+  "readMeFile": ""
+}
