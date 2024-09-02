@@ -2,7 +2,7 @@
   "name": "Points of Interest",
   "version": "1.0.0",
   "website": "",
-  "gitUrl": "",
+  "gitUrl": "https://github.com/Pmofmalasia/poi-token",
   "authors": ["PMofMalasia","Bobfile"],
   "license": "",
   "namespace": "com.pm.poi",
