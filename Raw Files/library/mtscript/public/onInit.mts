@@ -1,1 +1,1 @@
-[h:broadcast("Point of Interest tokens library loaded. Generate a PoI token?")]
+[h:js.evalURI("com.pm.poi","lib://com.pm.poi/poiMacrosFromAssets.js")]

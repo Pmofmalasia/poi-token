@@ -1,4 +1,3 @@
 {
-  "events": [{"name": "onInit","mts": "onInit"},
-	{"name": "onFirstInit","mts": "onFirstInit"}]
+  "events": [{"name": "onInit","mts": "onInit"}]
 }
