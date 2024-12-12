@@ -6,4 +6,4 @@
 
 [h,if(newNumber < 0 || newNumber > 100): assert(0,"Your input must be between 0 and 100!")]
 
-[h:setTokenImage("lib://com.pm.poi/numbers/marker-"+newNumber+".png")]
+[h:setTokenImage("lib://com.pm.poi/numbers/marker-"+newNumber+".webp")]
